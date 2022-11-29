@@ -1,0 +1,1 @@
+insert into persona(cedula, nombres, apellidos, correo, fnacimiento, direccion, telefono, vacunado, fvacunacion, dosis) values ('0103801601','Jessica', 'Cardenas','dcardenas',NOW(),'cuenca','0980915948','1',NOW(),'1');
